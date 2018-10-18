@@ -1,3 +1,5 @@
+
+do cd src/
 1st commnad: python3 data_prep.py
 2nd commnad: python3 model.py
 
